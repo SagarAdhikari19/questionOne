@@ -1,0 +1,14 @@
+Z:\truenary intern\coding --\interface\obj\Debug\net8.0\interface.GeneratedMSBuildEditorConfig.editorconfig
+Z:\truenary intern\coding --\interface\obj\Debug\net8.0\interface.AssemblyInfoInputs.cache
+Z:\truenary intern\coding --\interface\obj\Debug\net8.0\interface.AssemblyInfo.cs
+Z:\truenary intern\coding --\interface\obj\Debug\net8.0\interface.csproj.CoreCompileInputs.cache
+Z:\truenary intern\coding --\interface\bin\Debug\net8.0\interface.exe
+Z:\truenary intern\coding --\interface\bin\Debug\net8.0\interface.deps.json
+Z:\truenary intern\coding --\interface\bin\Debug\net8.0\interface.runtimeconfig.json
+Z:\truenary intern\coding --\interface\bin\Debug\net8.0\interface.dll
+Z:\truenary intern\coding --\interface\bin\Debug\net8.0\interface.pdb
+Z:\truenary intern\coding --\interface\obj\Debug\net8.0\interface.dll
+Z:\truenary intern\coding --\interface\obj\Debug\net8.0\refint\interface.dll
+Z:\truenary intern\coding --\interface\obj\Debug\net8.0\interface.pdb
+Z:\truenary intern\coding --\interface\obj\Debug\net8.0\interface.genruntimeconfig.cache
+Z:\truenary intern\coding --\interface\obj\Debug\net8.0\ref\interface.dll
